@@ -1,2 +1,4 @@
 # repl
-create repl repo 
+create repl repo
+
+Glenn's addition to Keith's README file. 
